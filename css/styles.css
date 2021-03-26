@@ -14,12 +14,3 @@ body {
       background-color: #17a2b8;
 }
 
-<li class="nav-item dropdown active">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown-menu" aria-haspopup="true" aria-expanded="true">
-        Download
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="https://store.steampowered.com/app/291550/Brawlhalla/">Download Steam</a>
-          <a class="dropdown-item" href="https://www.brawlhalla.com/">Download Browser</a>
-        </div>
-      </li>

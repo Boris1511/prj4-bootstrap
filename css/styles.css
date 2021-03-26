@@ -1,15 +1,25 @@
 @charset "utf-8';
 
 body {
-      background-color: #e0ffe0;
-      color: #004000; 
+      background-color: #17a2b8;
+      color: #20c997; 
       font-family: 'Anton', sans-serif;
 }
  
 .header-background {
-      background-image: url("../images/fixie_bike_4.jpg");
+      background-image: url("../images/");
 }
 
 .my-navbar{
-      background-color: #004000;
+      background-color: #17a2b8;
 }
+
+<li class="nav-item dropdown active">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown-menu" aria-haspopup="true" aria-expanded="true">
+        Download
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="https://store.steampowered.com/app/291550/Brawlhalla/">Download Steam</a>
+          <a class="dropdown-item" href="https://www.brawlhalla.com/">Download Browser</a>
+        </div>
+      </li>
